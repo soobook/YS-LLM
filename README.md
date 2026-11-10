@@ -7,5 +7,5 @@
 
 ### claude 활용
 - 아티팩트 사례
-  - [트랜스포머 단계별 해부](https://github.com/user-attachments/assets/a587cff7-d126-45c5-ab67-d7bbd3184c44)
+  - [트랜스포머 단계별 해부](https://claude.ai/artifact/AvycJnb5wBhsRvmPzuXK1X)
 
