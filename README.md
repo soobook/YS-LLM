@@ -3,4 +3,9 @@
 
 ## 강연주제
 - X+AI 기반 교수역량 혁신: LLM의 이해와 교육현장 활용
-  - ChatGPT와 Claude의 특징 및 실제 활용 사례  
+  - ChatGPT와 Claude의 특징 및 실제 활용 사례
+
+### claude 활용
+- 아티팩트 사례
+  - [트랜스포머 단계별 해부](https://github.com/user-attachments/assets/a587cff7-d126-45c5-ab67-d7bbd3184c44)
+
